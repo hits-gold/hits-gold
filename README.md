@@ -29,7 +29,7 @@
 
 
 ### 💻 프로젝트
-|연도|분류|프로젝트|링크|
+|연도|keyword|프로젝트|링크|
 |-|-|-|-|
 |2022|CV Sementic Segmentation (MMSegmentation)|항공이미지 활용 건물변화 탐지|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%92%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5">링크</a>|
 |2022|CV image Super-resolution|실제상황 안면 이미지 초해상화|정리중|
