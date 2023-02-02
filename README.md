@@ -2,7 +2,7 @@
 - glkw05250525@gmail.com
 
 ### 🙍🏻‍♂️ Blog
- - <a href="https://2021-01-06getstarted.tistory.com/" target="_blank">Tistory</a>
+ - <a href="https://2021-01-06getstarted.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
 
 ### 🛠 Tech Stack
   
