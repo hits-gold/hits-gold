@@ -1,6 +1,6 @@
 ### 📭 Email&Blog
-- <a href="glkw05250525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=glkw05250525@gmail.com&logoColor=white"/></a>
-- <a href="https://2021-01-06getstarted.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/FillmyNull-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
+- <a href="glkw05250525@gmail.com" target="_blank"><img src="https://img.shields.io/badge/glkw05250525@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+- <a href="https://2021-01-06getstarted.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
 
 ### 🛠 Tech Stack
   
