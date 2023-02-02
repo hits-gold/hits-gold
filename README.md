@@ -9,7 +9,7 @@
 |개발 도구 & 환경|<img src="https://img.shields.io/badge/VScode-FFFFFF?style=flat&logo=Visual Studio Code&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=NVIDIA&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>|
 |협업 툴|<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/MSTeams-6264A7?style=flat&logo=Microsoft Teams&logoColor=white"/>|
 |플랫폼|<img src="https://img.shields.io/badge/Window-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Mac-919191?style=flat&logo=Macos&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>|
-
+|-|-|
 ### 📝 교육
 |기간|소속|전공|학위|비고|
 |-|-|-|-|-|
