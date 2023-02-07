@@ -37,6 +37,7 @@
 ### 💻 프로젝트
 |연도|keyword|프로젝트|링크|
 |:---:|:---:|:---:|:---:|
+|2023|CJ Logistics 구매팀 원가 크롤링 엔진&대시보드 개발|Crawling, Tableau||
 |2022|CV Sementic Segmentation|항공이미지 활용 건물변화 탐지|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%92%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5">링크</a>|
 |2022|CV, Super-resolution|실제상황 안면 이미지 초해상화|정리중|
 |2022|ML, Data Analysis|교통량 예측과 요인분석|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%80%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8">링크</a>|
