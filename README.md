@@ -48,6 +48,11 @@
 ### 🏫 학회 활동 
 - [D&A](https://github.com/hits-gold/2022DnA_Session) <- About D&A
   
+  
+|학회|역할|세부역할|기간|
+|:---:|:---:|:---:|:---:|
+|2022D&A|학회운영진|Session 자료 제작 및 발표, 대회/강연회 운영, 공모전 공지|2021.12 ~ 2022.12|
+
 |연도|Session|활동 내용|링크|
 |:---:|:---:|:---:|:---:|
 |2022|Basic Session|파이썬 기초1|<a href = 'https://github.com/hits-gold/2022DnA_Session/tree/main/Basic_Session/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%881'>링크</a>|
