@@ -37,7 +37,7 @@
 ### 💻 프로젝트
 |연도|프로젝트|Tags|링크|
 |:---:|:---:|:---:|:---:|
-|2023~|CJ Logistics 구매팀 원가 크롤링 엔진&대시보드 개발|Crawling, Tableau||
+|2023~|CJ Logistics 구매팀 원가 크롤링 엔진&대시보드 개발|Crawling, Tableau|[링크](https://github.com/hits-gold/projects/tree/main/CJ%EB%8C%80%ED%95%9C%ED%86%B5%EC%9A%B4%20%EA%B5%AC%EB%A7%A4%ED%8C%80%20%EC%9B%90%EC%9E%AC%EC%9E%90%EA%B0%80%EA%B2%A9%20%ED%81%AC%EB%A1%A4%EB%A0%9D%20%EC%97%94%EC%A7%84%26%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EA%B0%9C%EB%B0%9C)|
 |2023~|골프 스윙 영상 이벤트 탐지 모델 개발|CV, Event Detection, Video Understanding|[링크](https://github.com/hits-gold/GolfSwingSequencing)|
 |2022|항공이미지 활용 건물변화 탐지|CV, Sementic Segmentation|<a href="https://github.com/hits-gold/projects/tree/main/%E1%84%92%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5">링크</a>|
 |2022|안면 이미지 초해상화와 특징점 검출|CV, Super-resolution, Landmark detection|[링크](https://github.com/hits-gold/projects/tree/main/%EC%95%88%EB%A9%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B4%88%ED%95%B4%EC%83%81%ED%99%94%EC%99%80%20%ED%8A%B9%EC%A7%95%EC%A0%90%20%EA%B2%80%EC%B6%9C)|
